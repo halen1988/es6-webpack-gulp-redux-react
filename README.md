@@ -1,2 +1,2 @@
-#git 测试的项目
-## spring
+#webpack-react-es6-babel-redux
+## 前端自动化构建项目
